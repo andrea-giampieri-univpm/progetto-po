@@ -1,9 +1,9 @@
-# Today_S_Forecast
+# PotrebbePiovere
 
 
-**Repository ufficiale per condivisione sorgente del progetto assegnato per esame di programmazione ad oggetti**
+**Repository del progetto di programmazione ad oggetti**
  
-Finizii Francesco - Giampieri Andrea
+Giampieri Andrea
 
 &copy; 2021 
 
@@ -209,7 +209,6 @@ Classe CurrentWeather:
 - Case4: "Test lettura id corretto" : Test creazione oggetto da api owm con id corretto, supposto nessun errore lanciato.
 - Case5: "Test tojsonstring" : Verifica output tojsonstring con stringa di esempio, supposto uguale.
 
-# Interfaccia grafica
 
 # Istruzioni 
 
