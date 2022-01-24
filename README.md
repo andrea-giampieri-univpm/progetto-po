@@ -45,10 +45,6 @@ Per non perdersi nei meandri del codice
 
 ## API reference
 
-Link Postman di esempio
-
-    https://www.postman.com/agiampi92/workspace/pub/collection/18506679-16e47ed5-af48-4623-a4fa-32c4f0b8867d
-
 
 ### Index
 
